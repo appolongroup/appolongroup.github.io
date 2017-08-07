@@ -1,0 +1,155 @@
+html {
+	background: #01579B;
+}
+
+.section1 {
+	background: #1A76D2;
+	min-height: 400px;
+	text-align: center;
+	padding:50px;
+	color:#fff;
+}
+
+	.section1 a {
+  		bottom: 20px;
+  		display: inline-block;
+  		color: #fff;
+  		letter-spacing: .1em;
+  		text-decoration: none;
+  		transition: opacity .3s;
+	}
+	.section1 a:hover {
+		opacity: .5;
+	}
+
+	.section1 p {
+		margin-top:50px;
+	}
+
+	.section1 .main-logo {
+		height:350px;
+	}
+	
+	.section1 table,tr,td {
+		border:0;
+	}
+	
+	.section1 table {
+		margin:0 auto 0 auto;
+	}
+	
+	.section1 h1 {
+		text-transform: uppercase;
+		font-weight:600;
+		font-family: Play;
+		text-align:left;
+		color:#fff;
+		margin-bottom:-0.4em;
+		margin-left:-60px;
+	}
+	
+	.section1 h2 {
+		text-transform: uppercase;
+		font-weight:600;
+		font-family: Play;
+		text-align:left;
+		color:#FF9802;
+		margin-left:-60px;
+	}
+	
+.section2 {
+	background: #fff;
+	min-height: 400px;
+	padding:50px;
+	color:#212121;
+}
+	.section2 div.twelve.columns{
+    	text-align:center;
+    	margin-bottom:20px;
+	}
+	
+	.section2 div.four.columns{
+    	text-align:center;
+	}
+	
+	.section2 div.four.columns h6{
+		font-weight:500;
+		font-family:Play;
+		font-size:1.4em;
+	}
+	
+	.section2 div.four.columns img {
+		max-height:80px;
+	}
+	
+	.section2 div.four.columns li {
+		background:#1A76D2;
+		text-align:left;
+		padding-left:15px;
+		color:#fff;
+	}
+	
+.section3 {
+	background: #FF9802;
+	padding:50px;
+	color:#fff;
+	text-align:center;
+}
+
+	.section3 h1 {
+		text-transform: uppercase;
+		font-weight:500;
+		font-family: Play;
+		font-size:3em;
+		margin-bottom:40px;
+	}
+	
+	.section3 img {
+		max-width:100%;
+		height:auto;
+	}
+	
+	@media only screen and (max-width:550px) {
+		.section3 img { width:60%}
+	}
+	
+.section4 {
+	background:#fff;
+	padding:50px;
+	text-align:center;
+}
+
+	.section4 div.four.columns img {
+		max-width:100%;
+		height:auto;
+		border:5px solid #1A76D2;
+	}
+	
+	.section4 h2 {
+		font-family:Play;
+	}
+	
+.section5 {
+	background:#fff;
+	text-align:center;
+	padding-bottom:50px;
+}
+
+.section6 {
+	background:#757575;
+	color:#fff;
+	padding-top:50px;
+	text-align:center;
+}
+
+	.section6 h3 {
+		font-family: Play;
+	}
+	
+	.section6 p {
+		padding-bottom:40px;
+	}
+	
+	.section6 a {
+		color:#BBDEFB;
+	}

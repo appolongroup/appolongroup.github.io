@@ -1,0 +1,118 @@
+html {
+	background: #01579B;
+}
+
+.section1 {
+	background: #1A76D2;
+	color:#fff;
+	text-align:center;
+}
+
+	.section1 a {
+  		bottom: 20px;
+  		display: inline-block;
+  		color: #fff;
+  		letter-spacing: .1em;
+  		text-decoration: none;
+  		transition: opacity .3s;
+	}
+	.section1 a:hover {
+		opacity: .5;
+	}
+
+	.section1 p {
+		margin-top:50px;
+	}
+
+	.section1 .main-logo {
+		height:250px;
+	}
+	
+	.section1 table,tr,td {
+		border:0;
+	}
+	
+	.section1 table {
+		margin:0 auto 0 auto;
+	}
+	
+	.section1 h1 {
+		text-transform: uppercase;
+		font-weight:600;
+		font-family: Play;
+		text-align:left;
+		color:#fff;
+		margin-bottom:-0.4em;
+		margin-left:-60px;
+	}
+	
+	.section1 h2 {
+		text-transform: uppercase;
+		font-weight:600;
+		font-family: Play;
+		text-align:left;
+		color:#FF9802;
+		margin-left:-60px;
+	}
+	
+.section2 {
+	background: #fff;
+	min-height: 400px;
+	padding:50px;
+	color:#212121;
+	text-align:center;
+}
+
+	.section2 h3 {
+		font-family: Play;
+		font-weight:500;
+		text-transform:Uppercase;
+	}
+	
+	.section2 .motor-img1 {
+		background: url("../images/gallery/motor/05.jpg") 50% 50%;
+		background-size:cover;
+		width: 80px;
+		height: 80px;
+	}
+	
+	.section2 .motor-img2 {
+		background: url("../images/gallery/motor/15.jpg") 50% 50%;
+		background-size:cover;
+		width: 50px;
+		height: 50px;
+	}
+	
+	.section2 .motor-img3 {
+		background: url("../images/gallery/motor/12.jpg") 50% 50%;
+		background-size:cover;
+		width: 50px;
+		height: 50px;
+	}
+	
+	.section2 .motor-img4 {
+		background: url("../images/gallery/motor/09.jpg") 50% 50%;
+		background-size:cover;
+		width: 50px;
+		height: 50px;
+	}
+	
+
+.section6 {
+	background:#757575;
+	color:#fff;
+	padding-top:50px;
+	text-align:center;
+}
+
+	.section6 h3 {
+		font-family: Play;
+	}
+	
+	.section6 p {
+		padding-bottom:40px;
+	}
+	
+	.section6 a {
+		color:#BBDEFB;
+	}

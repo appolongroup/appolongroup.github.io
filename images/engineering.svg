@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 293.2 230" style="enable-background:new 0 0 293.2 230;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#545454;stroke-width:6;stroke-miterlimit:10;}
+	.st1{fill:#1A76D2;stroke:#545454;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:#FF9802;stroke:#545454;stroke-width:6;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#545454;stroke-width:6;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#545454;stroke-width:6;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="st0" d="M227,35v192H35c-17.7,0-32-14.3-32-32V35H227z"/>
+	<path class="st1" d="M210.8,51v159.8H50.7c-39,0-47.7-29.4-47.7-46.9V51H210.8z"/>
+	<path class="st0" d="M3,195c0-17.7,14.3-32,32-32V3C17.3,3,3,17.3,3,35V195z"/>
+	<rect x="51" y="3" class="st2" width="159.8" height="16"/>
+	<polygon class="st3" points="227,11 210.8,3 210.8,19 	"/>
+	<rect x="259" y="3" class="st2" width="16" height="32"/>
+	<circle class="st0" cx="267" cy="65" r="18"/>
+	<path class="st4" d="M243,100.9c5.5,7.2,14.2,11.8,24,11.8c9.7,0,18.3-4.5,23.8-11.6"/>
+	<line class="st4" x1="267" y1="47" x2="267" y2="35"/>
+	<line class="st4" x1="256.9" y1="79.9" x2="243" y2="227"/>
+	<line class="st4" x1="276.3" y1="79.9" x2="290.2" y2="227"/>
+	<g>
+		<polyline class="st4" points="188.4,99.2 156.9,67 124.4,99.2 		"/>
+		<polyline class="st4" points="179,99.2 179,195.2 133.8,195.2 133.8,97.5 		"/>
+		<line class="st4" x1="92.7" y1="67" x2="107.9" y2="67"/>
+		<line class="st4" x1="92.7" y1="83.1" x2="100.3" y2="83.1"/>
+		<line class="st4" x1="92.7" y1="99" x2="100.3" y2="99"/>
+		<line class="st4" x1="92.7" y1="115" x2="107.9" y2="115"/>
+		<line class="st4" x1="92.7" y1="131.1" x2="100.3" y2="131.1"/>
+		<line class="st4" x1="92.7" y1="147" x2="100.3" y2="147"/>
+		<line class="st4" x1="92.7" y1="163" x2="107.9" y2="163"/>
+		<line class="st4" x1="92.7" y1="179.1" x2="100.3" y2="179.1"/>
+		<line class="st4" x1="92.7" y1="195" x2="100.3" y2="195"/>
+		<rect x="60.4" y="67" class="st4" width="16" height="32.2"/>
+		<rect x="60.4" y="115" class="st4" width="16.7" height="16"/>
+		<rect x="60.4" y="147" class="st4" width="16.7" height="16"/>
+		<rect x="60.4" y="178.2" class="st4" width="16.7" height="16"/>
+	</g>
+</g>
+</svg>
