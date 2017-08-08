@@ -28,27 +28,27 @@ html {
 
 	.section1 .main-logo {
 		height:350px;
-		margin-left:40%;
+		margin-left:30%;
 	}
 	
 	@media only screen and (max-width:1300px) {
-		.section1 .main-logo {margin-left:40%;}
-	}
-	
-	@media only screen and (max-width:1200px) {
-		.section1 .main-logo {margin-left:35%;}
-	}
-	
-	@media only screen and (max-width:1100px) {
 		.section1 .main-logo {margin-left:30%;}
 	}
 	
-	@media only screen and (max-width:1000px) {
+	@media only screen and (max-width:1200px) {
 		.section1 .main-logo {margin-left:25%;}
 	}
 	
-	@media only screen and (max-width:850px) {
+	@media only screen and (max-width:1100px) {
+		.section1 .main-logo {margin-left:20%;}
+	}
+	
+	@media only screen and (max-width:1000px) {
 		.section1 .main-logo {margin-left:15%;}
+	}
+	
+	@media only screen and (max-width:850px) {
+		.section1 .main-logo {margin-left:10%;}
 	}
 	
 	@media only screen and (max-width:750px) {
