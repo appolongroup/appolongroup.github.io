@@ -28,11 +28,11 @@ html {
 
 	.section1 .main-logo {
 		height:350px;
-		margin-left:30%;
+		margin-left:10%;
 	}
 	
 	@media only screen and (max-width:1300px) {
-		.section1 .main-logo {margin-left:30%;}
+		.section1 .main-logo {margin-left:10%;}
 	}
 	
 	@media only screen and (max-width:1200px) {
