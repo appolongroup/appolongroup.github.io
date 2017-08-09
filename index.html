@@ -26,18 +26,24 @@
 	<link rel="stylesheet" href="css/skeleton.css">
 	<link rel="stylesheet" href="css/main.css">
 	<link rel="stylesheet" href="css/carousel.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.20/jquery.fancybox.min.css" />
 
 	<!-- Favicon
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-	<link rel="icon" type="image/png" href="images/favicon.ico">
+	<link rel="icon" type="image/png" href="images/favicon.png">
 	
 	<!-- Scripts
 	–––––––––––––––––––––––––––––––––––––––––––––––––– -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" type="text/javascript" ></script>
-	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	<script src="js/slick.js" type="text/javascript" charset="utf-8"></script>
 	<script src='js/moment.min.js'></script>
 	<script src='js/chart.min.js'></script>
+	<script> 
+   $(function(){
+       $('#photogalleries').load("photo-galleries.html");
+   });
+    </script>
 
 </head>
 	<body>
@@ -149,10 +155,26 @@
 					<div class="slide"><img src="images/008.jpg"></div>
 					<div class="slide"><img src="images/009.jpg"></div>
 				</div>
-				<!---
-				<a class="button button-primary" href="gallery.html" style="margin-top:40px;width:100%;">Photo gallery</a>
-				---!>
-				<script type="text/javascript">
+				
+				<h3>Photo Galleries</h3>
+				<div id="photogalleries"></div>
+				
+			</div>
+		</section>
+		
+		<section class="section6">
+			<div class="container">
+				<h3>CONTACT US</h3>
+				<h5>We welcome your questions, queries and offers.</h5>
+				<p>Email: <a href="mailto:info@appolongroup.com">info@appolongroup.com</a><br>
+				Tel: <a href="tel:+994552114727">+994 55 211 47 27</a><br>
+				Tel: <a href="tel:+320486485153">+32 0486 48 51 53</a></p>
+				<hr>
+				<p style="">Last Updated: January 2017</p>
+			</div>
+		</section>
+		
+		<script type="text/javascript">
 					$(document).ready(function(){
 						$('.customer-logos').slick({
 							slidesToShow: 3,
@@ -176,20 +198,6 @@
 						});
 					});
 				</script>
-				
-			</div>
-		</section>
-		
-		<section class="section6">
-			<div class="container">
-				<h3>CONTACT US</h3>
-				<h5>We welcome your questions, queries and offers.</h5>
-				<p>Email: <a href="mailto:info@appolongroup.com">info@appolongroup.com</a><br>
-				Tel: <a href="tel:+994552114727">+994 55 211 47 27</a><br>
-				Tel: <a href="tel:+320486485153">+32 0486 48 51 53</a></p>
-				<hr>
-				<p style="">Last Updated: January 2017</p>
-			</div>
-		</section>
+		<script src="js/jquery.fancybox.min.js"></script>
 	</body>
 </html>

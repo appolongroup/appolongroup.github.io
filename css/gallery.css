@@ -116,3 +116,7 @@ html {
 	.section6 a {
 		color:#BBDEFB;
 	}
+	
+.gallery-photos img {
+	width:100px;
+}
