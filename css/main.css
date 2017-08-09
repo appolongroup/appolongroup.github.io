@@ -177,6 +177,12 @@ html {
 	padding-bottom:50px;
 }
 
+	.section5 h3 {
+		font-family:Play;
+		text-transform:uppercase;
+		margin-top:50px;
+	}
+
 .section6 {
 	background:#757575;
 	color:#fff;
