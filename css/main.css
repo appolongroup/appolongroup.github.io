@@ -182,6 +182,16 @@ html {
 		text-transform:uppercase;
 		margin-top:50px;
 	}
+	
+	.section5 a.button.button-primary {
+		background-color:#1A76D2;
+		border-color:#1A76D2;
+	}
+	
+	.section5 a.button.button-primary:hover {
+		background-color:#33C3F0;
+		border-color:#33C3F0;
+	}
 
 .section6 {
 	background:#757575;
